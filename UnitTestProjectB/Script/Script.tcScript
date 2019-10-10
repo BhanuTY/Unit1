@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Lib">
+			<child name="Unit1" key="{1558EBBF-506B-4C24-9DB6-2F97F34783DE}" path="..\..\UnitTestProjectA\Script\Unit1.py" />
+		</folder>
+		<folder name="UAT">
+			<child name="TestUnit1" key="{50C96E6B-01E1-4A74-8686-437B67EA70E0}" path="TestUnit1.py" />
+		</folder>
+	</children>
+</Root>

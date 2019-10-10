@@ -2,10 +2,12 @@
 <Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{A556CF51-3463-4675-AB46-AC58CDA905A9}">
 	<children>
 		<child name="UnitTestProjectA" key="{45E8A8ED-40F3-492D-8794-5C376937D11E}" path="UnitTestProjectA\UnitTestProjectA.mds" />
+		<child name="UnitTestProjectB" key="{4FA3E064-2BA4-4D82-9E52-BBA3593BE959}" path="UnitTestProjectB\UnitTestProjectB.mds" />
 	</children>
 	<testItems key="{886E78E5-08C9-4B4F-B311-414B4261FF32}">
 		<children>
 			<testItem key="{45E8A8ED-40F3-492D-8794-5C376937D11E}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{4FA3E064-2BA4-4D82-9E52-BBA3593BE959}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{6785B8B7-03BD-4283-AC42-5955915A1356}">
